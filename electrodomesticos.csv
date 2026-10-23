@@ -1,0 +1,31 @@
+Titulo,IdProducto,Cantidad,Descripcion,Marca
+Laptop Empresarial 14,PROD-0001,15,"Laptop empresarial de 14 pulgadas, procesador Intel Core i5, 16GB RAM y 512GB SSD para uso corporativo.",Dell
+Monitor LED 24,PROD-0002,25,"Monitor Full HD de 24 pulgadas con puertos HDMI y DisplayPort para estaciones de trabajo.",Samsung
+Teclado Inalambrico,PROD-0003,40,"Teclado inalámbrico ergonómico con distribución en español y batería de larga duración.",Logitech
+Mouse Optico USB,PROD-0004,50,"Mouse óptico USB con sensor de alta precisión para uso diario en oficina.",Logitech
+Impresora Laser,PROD-0005,8,"Impresora láser monocromática de alto rendimiento para grupos de trabajo.",HP
+Escaner Documental,PROD-0006,6,"Escáner de documentos duplex con alimentación automática para digitalización masiva.",Canon
+Disco SSD 1TB,PROD-0007,20,"Unidad de estado sólido de 1TB para almacenamiento rápido y seguro.",Kingston
+Memoria USB 64GB,PROD-0008,100,"Memoria USB 3.0 de 64GB para transferencia rápida de archivos.",SanDisk
+Telefono IP,PROD-0009,30,"Teléfono IP empresarial compatible con plataformas de comunicaciones unificadas.",Cisco
+UPS 1500VA,PROD-0010,12,"Sistema de alimentación ininterrumpida para protección de equipos críticos.",APC
+Silla Ejecutiva,PROD-0011,18,"Silla ergonómica ejecutiva con soporte lumbar ajustable y reposabrazos.",Fursys
+Escritorio Modular,PROD-0012,10,"Escritorio modular de oficina con superficie resistente y organizador de cables.",OfficePro
+Proyector Full HD,PROD-0013,5,"Proyector Full HD de alta luminosidad para salas de reuniones.",Epson
+Camara Web HD,PROD-0014,22,"Cámara web HD con micrófono integrado para videoconferencias.",Logitech
+Auriculares USB,PROD-0015,35,"Auriculares USB con cancelación de ruido para atención al cliente.",Jabra
+Servidor Rack,PROD-0016,3,"Servidor tipo rack con procesadores de alto desempeño para centros de datos.",Dell
+Switch 24 Puertos,PROD-0017,7,"Switch administrable de 24 puertos Gigabit para redes empresariales.",Cisco
+Router Empresarial,PROD-0018,6,"Router de alto rendimiento con soporte VPN y balanceo de carga.",Mikrotik
+Disco Externo 2TB,PROD-0019,15,"Disco duro externo de 2TB para respaldos y almacenamiento portátil.",Seagate
+Tablet Corporativa,PROD-0020,12,"Tablet de 10 pulgadas para aplicaciones móviles de negocio.",Samsung
+Smartphone Empresarial,PROD-0021,20,"Teléfono inteligente con capacidades avanzadas de seguridad corporativa.",Samsung
+Lector Codigo Barras,PROD-0022,14,"Lector de códigos de barras inalámbrico para gestión de inventario.",Zebra
+Etiquetadora Industrial,PROD-0023,4,"Impresora de etiquetas para procesos logísticos y control de activos.",Brother
+Pantalla Interactiva,PROD-0024,2,"Pantalla táctil interactiva de 75 pulgadas para presentaciones colaborativas.",LG
+Microfono USB,PROD-0025,16,"Micrófono USB de alta calidad para reuniones y grabaciones.",Blue
+Camara Seguridad IP,PROD-0026,28,"Cámara IP con visión nocturna y monitoreo remoto en tiempo real.",Hikvision
+Disco NAS 8TB,PROD-0027,5,"Disco especializado para almacenamiento en dispositivos NAS empresariales.",Western Digital
+Mini PC Oficina,PROD-0028,11,"Computadora compacta para tareas administrativas y espacios reducidos.",Lenovo
+Hub USB-C,PROD-0029,30,"Hub multipuerto USB-C con HDMI, USB 3.0 y lector de tarjetas integrado.",Anker
+Pizarra Digital,PROD-0030,3,"Pizarra digital interactiva para capacitación y sesiones colaborativas.",SMART
